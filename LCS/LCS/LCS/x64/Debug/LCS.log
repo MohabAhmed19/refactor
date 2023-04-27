@@ -1,0 +1,3 @@
+﻿  main.c
+E:\mohab\academy\sprints\Tasks\Refactor\LCS\main.c(11,8): warning C4101: 'stop': unreferenced local variable
+  LCS.vcxproj -> E:\mohab\academy\sprints\Tasks\Refactor\LCS\LCS\x64\Debug\LCS.exe

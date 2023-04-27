@@ -1,0 +1,10 @@
+﻿  Balanced pranthethes.c
+  Balanced.c
+E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Balanced.c(11,6): warning C4013: 'strlen' undefined; assuming extern returning int
+E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Balanced.c(13,3): warning C4013: 'printf' undefined; assuming extern returning int
+  Stack.c
+E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Stack.c(45,31): warning C4047: '==': 'ST_stack_t *' differs in levels of indirection from 'int'
+E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Stack.c(49,4): warning C4013: 'printf' undefined; assuming extern returning int
+E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Stack.c(82,31): warning C4047: '==': 'ST_stack_t *' differs in levels of indirection from 'int'
+  Generating Code...
+  Balanced Paranthethes.vcxproj -> E:\mohab\academy\sprints\Tasks\Refactor\Balanced pranthethes\Balanced Paranthethes\x64\Debug\Balanced Paranthethes.exe
